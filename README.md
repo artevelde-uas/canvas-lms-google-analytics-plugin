@@ -1,4 +1,4 @@
-# Canvas LMS Course Recycle Bin Plug-in
+# Canvas LMS Google Analytics Plug-in
 
 Plugin for the [Canvas LMS theme app](https://github.com/ahsdile/canvas-lms-app) that adds the Google Analytics scripts to Canvas by providing the tracking id.
 
