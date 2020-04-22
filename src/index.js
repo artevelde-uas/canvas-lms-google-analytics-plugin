@@ -4,7 +4,7 @@ export default function (app, { trackingId }) {
     let inlineScript = document.createElement('script');
     
     gtagScript.setAttribute('src', 'https://www.googletagmanager.com/gtag/js?id=' + trackingId);
-    gtagScript.setAttribute('async', '');
+    gtagScript.toggleAttribute('async', true);
     document.head.appendChild(gtagScript);
     
     inlineScript.textContent = `
