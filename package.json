@@ -1,6 +1,6 @@
 {
   "name": "@artevelde-uas/canvas-lms-google-analytics-plugin",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Plugin for the Canvas LMS theme app that adds the Google Analytics scripts to Canvas by providing the tracking id",
   "keywords": [
     "Canvas LMS"
