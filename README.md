@@ -3,9 +3,10 @@
 Plugin for the [Canvas LMS theme app](https://www.npmjs.com/package/@artevelde-uas/canvas-lms-app) that adds the Google
 Analytics scripts to Canvas by providing the tracking id.
 
-[![](https://img.shields.io/npm/v/@artevelde-uas/canvas-lms-google-analytics-plugin.svg)](https://www.npmjs.com/package/@artevelde-uas/canvas-lms-google-analytics-plugin)
-[![](https://img.shields.io/github/license/artevelde-uas/canvas-lms-google-analytics-plugin.svg)](https://spdx.org/licenses/MIT)
-[![](https://img.shields.io/npm/dt/@artevelde-uas/canvas-lms-google-analytics-plugin.svg)](https://www.npmjs.com/package/@artevelde-uas/canvas-lms-google-analytics-plugin)
+[![NPM version](https://img.shields.io/npm/v/@artevelde-uas/canvas-lms-google-analytics-plugin.svg)](https://www.npmjs.com/package/@artevelde-uas/canvas-lms-google-analytics-plugin)
+[![License](https://img.shields.io/github/license/artevelde-uas/canvas-lms-google-analytics-plugin.svg)](https://spdx.org/licenses/MIT)
+[![Downloads](https://img.shields.io/npm/dt/@artevelde-uas/canvas-lms-google-analytics-plugin.svg)](https://www.npmjs.com/package/@artevelde-uas/canvas-lms-google-analytics-plugin)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/artevelde-uas/canvas-lms-google-analytics-plugin/pulls)
 
 ## Installation
 
